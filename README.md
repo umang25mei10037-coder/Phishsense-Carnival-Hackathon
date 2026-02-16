@@ -4,13 +4,22 @@
 PhishSense is a high-performance, interactive cybersecurity awareness platform designed to educate users on the mechanics of phishing attacks. 
 It was developed by students from VIT Bhopal University specifically for the Carnival Hackathon(2026), combining real-time analysis tools with gamified learning in a modern "cyber-noir" interface.
 
-🚩 The Problem We SolveCybercriminals are increasingly using AI and sophisticated social engineering to craft "perfect" phishing lures.The Scale: Over 3.4 billion phishing emails are sent daily.The Impact: 90% of all data breaches start with a simple phishing link.The Knowledge Gap: Most users lack a safe environment to "test" suspicious content without risk or find modern ways to learn about evolving threats like Smishing or Whaling.
+🚩 The Problem We Solve: Cybercriminals are increasingly using AI and sophisticated social engineering to craft "perfect" phishing lures.
+The Scale: Over 3.4 billion phishing emails are sent daily.The Impact: 90% of all data breaches start with a simple phishing link.The Knowledge Gap:
+Most users lack a safe environment to "test" suspicious content without risk or find modern ways to learn about evolving threats like Smishing or Whaling.
 
-🚀 Our SolutionPhishSense provides a three-layered defense strategy:Immediate Analysis: A real-time Phishing Scanner and Password Strength Analyzer evaluate potential threats (URLs, emails, messages) using heuristic detection.Gamified Education: A visual "Spot the Difference" module and an interactive Phishing Quiz train the user's eye to identify red flags like typosquatting.Actionable Framework: A 10-point Security Checklist and a localized Cybercrime Reporting Hub (supporting IND, USA, UK, and Global agencies) empower users to take action.
+🚀 Our SolutionPhishSense provides a three-layered defence strategy: Immediate Analysis: A real-time Phishing Scanner and Password Strength Analyzer evaluate potential threats (URLs, emails, messages) using heuristic detection.
+Gamified Education: A visual "Spot the Difference" module and an interactive Phishing Quiz train the user's eye to identify red flags like typosquatting.
+
+Actionable Framework:
+A 10-point Security Checklist and a localised Cybercrime Reporting Hub (supporting IND, USA, UK, and Global agencies) empower users to take action.
 
 💻 Technologies UsedFrontend Architecture:
-Modern Semantic HTML5 and CSS3 utilizing Custom Properties for a dynamic theme system.Styling & UI: * Glassmorphism: High-end translucency effects using backdrop-filter.Responsive Design: Mobile-first approach with CSS Grid and Flexbox.Interactive Engine: Vanilla JavaScript (ES6+). 
-No heavy frameworks were used to ensure near-instant load times and zero-dependency security.Visual Effects: * HTML5 Canvas API: Custom particle-grid background with mouse-tracking.Intersection Observer API: High-performance "scroll-reveal" animations.
+Modern Semantic HTML5 and CSS3 utilising Custom Properties for a dynamic theme system.
+Styling & UI: * Glassmorphism: High-end translucency effects using backdrop-filter.Responsive Design: Mobile-first approach with CSS Grid and Flexbox.
+Interactive Engine: Vanilla JavaScript (ES6+). 
+No heavy frameworks were used to ensure near-instant load times and zero-dependency security.
+Visual Effects: * HTML5 Canvas API: Custom particle-grid background with mouse-tracking.Intersection Observer API: High-performance "scroll-reveal" animations.
 
 🤖 AI Collaboration & Justification
 This project was developed with the assistance of AI (Claude). In today's rapidly evolving tech landscape, we believe this collaboration is not just a choice, but a necessity for the following reasons:
@@ -21,11 +30,11 @@ The "AI vs. AI" Reality: Since modern phishing attacks are now being generated b
 
 Efficiency & Scalability: AI allowed a small student team to achieve production-level code quality and comprehensive documentation within the tight constraints of a hackathon.
 
-🛠️ Key FeaturesFeatureDescriptionPhish ScannerHeuristic engine checking for urgency phrases and malicious URL shorteners.Password AnalyzerReal-time entropy assessment with actionable feedback on complexity.Interactive Quiz6-stage awareness test with immediate feedback and scoring.Safety AuditPersistent checklist to calculate your personal cyber-safety score.Reporting HubDirect links to official authorities like CERT-In (India) and the FTC (USA).
+🛠️ Key FeaturesFeatureDescriptionPhish ScannerHeuristic engine checking for urgency phrases and malicious URL shorteners.Password AnalyzerReal-time entropy assessment with actionable feedback on complexity.Interactive Quiz: 6-stage awareness test with immediate feedback and scoring.Safety Audit: A persistent checklist to calculate your personal cyber-safety score.Reporting HubDirect links to official authorities like CERT-In (India) and the FTC (USA).
 
-🏆 Hackathon ContextThis project was built for the Carnival Hackathon by students of VIT Bhopal University. Team Name: Maverick: Cybersecurity Education & Public SafetyObjective:
+🏆 Hackathon Context: This project was built for the Carnival Hackathon by students of VIT Bhopal University. Team Name: Maverick: Cybersecurity Education & Public SafetyObjective:
 To reduce the success rate of social engineering attacks through accessible, high-tech educational tools.
 
-⚙️ How to UseClone the repository. 
+⚙️ How to Use: Clone the repository. 
 Open phishsense.html in any modern web browser.
 No installation required — the project is entirely self-contained in a single file for maximum portability.
