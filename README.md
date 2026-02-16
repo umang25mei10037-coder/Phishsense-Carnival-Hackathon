@@ -1,6 +1,8 @@
 # Phishsense-Carnival-Hackathon(2026)
 🛡️ PhishSense — Stay Alert. Stay Secure.
 
+Prototype video link: https://drive.google.com/file/d/1wod2VYhoV8lECrKdP9i269MTcUyeDVgd/view?usp=sharing
+
 PhishSense is a high-performance, interactive cybersecurity awareness platform designed to educate users on the mechanics of phishing attacks. 
 It was developed by students from VIT Bhopal University specifically for the Carnival Hackathon(2026), combining real-time analysis tools with gamified learning in a modern "cyber-noir" interface.
 
